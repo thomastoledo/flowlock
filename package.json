@@ -7,7 +7,7 @@
     "typescript": "^5.7.2"
   },
   "name": "flowlock",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": [
     "debounce",
     "throttle",
