@@ -1,5 +1,3 @@
-// debounce-throttle.ts
-
 type CancelableFunction = {
     (...args: any[]): void;
     cancel: () => void;
